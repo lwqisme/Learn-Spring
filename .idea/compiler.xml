@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-02" />
         <module name="auto-wired" />
+        <module name="dynamic-proxy" />
       </profile>
     </annotationProcessing>
   </component>
