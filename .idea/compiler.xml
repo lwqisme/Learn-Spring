@@ -7,7 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-02" />
+        <module name="spring-proxy" />
         <module name="auto-wired" />
+        <module name="java-config" />
       </profile>
     </annotationProcessing>
   </component>

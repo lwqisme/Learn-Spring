@@ -11,6 +11,8 @@
     <modules>
         <module>spring-02</module>
         <module>auto-wired</module>
+        <module>java-config</module>
+        <module>spring-proxy</module>
     </modules>
 
     <dependencies>

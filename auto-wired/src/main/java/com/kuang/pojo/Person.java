@@ -1,6 +1,7 @@
 package com.kuang.pojo;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 
 public class Person {
 
@@ -8,6 +9,7 @@ public class Person {
     private Dog dog;
     @Autowired //有了这个注解可以不用set方法
     private Cat cat;
+    @Value("注解注入")
     private String name;
 
     public Dog getDog() {
