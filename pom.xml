@@ -11,8 +11,12 @@
     <modules>
         <module>spring-02</module>
         <module>auto-wired</module>
+<<<<<<< HEAD
         <module>java-config</module>
         <module>spring-proxy</module>
+=======
+        <module>dynamic-proxy</module>
+>>>>>>> 494ceebaad16fdafeee231534cce859c3bcc1aec
     </modules>
 
     <dependencies>

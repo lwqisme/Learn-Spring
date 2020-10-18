@@ -9,7 +9,11 @@
         <module name="spring-02" />
         <module name="spring-proxy" />
         <module name="auto-wired" />
+<<<<<<< HEAD
         <module name="java-config" />
+=======
+        <module name="dynamic-proxy" />
+>>>>>>> 494ceebaad16fdafeee231534cce859c3bcc1aec
       </profile>
     </annotationProcessing>
   </component>
